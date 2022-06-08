@@ -1,8 +1,6 @@
 # Minesweeper-Python
 
-The back-end was made by [Raemond Bergstrom-Wood](https://github.com/RaemondBW/Python-Minesweeper).
-
-And I ([Erfan Paslar](https://github.com/erfanpaslar/Python-Minesweeper)) made a UI for it using [Eel](https://github.com/ChrisKnott/Eel) library.
+And I ([ContigoMocs](https://github.com/ContigoMocs)) made a UI for it using my own library.
 
 <span style="display:block;text-align:center">
 <figure class="post-figure">
